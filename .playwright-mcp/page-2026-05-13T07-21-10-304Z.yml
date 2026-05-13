@@ -1,0 +1,112 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]: 호픈
+        - generic [ref=e7]: 계산기
+      - navigation [ref=e8]:
+        - button "홈" [ref=e9]:
+          - img [ref=e10]
+          - generic [ref=e13]: 홈
+        - button "계산기" [ref=e14]:
+          - img [ref=e15]
+          - generic [ref=e17]: 계산기
+        - button "D-Day" [ref=e18]:
+          - img [ref=e19]
+          - generic [ref=e21]: D-Day
+        - button "기록" [ref=e22]:
+          - img [ref=e23]
+          - generic [ref=e26]: 기록
+        - button "설정" [ref=e27]:
+          - img [ref=e28]
+          - generic [ref=e31]: 설정
+    - generic [ref=e32]:
+      - banner [ref=e33]:
+        - button [ref=e34]:
+          - img
+      - main [ref=e35]:
+        - generic [ref=e36]:
+          - heading "연봉 실수령액 계산기 (2026)" [level=1] [ref=e37]
+          - generic [ref=e38]:
+            - generic [ref=e41]:
+              - generic [ref=e42]:
+                - generic [ref=e43]: 세전 연봉 (원)
+                - textbox "50000000" [ref=e44]
+              - paragraph [ref=e45]: 세율은 설정 → 세율 커스텀에서 변경할 수 있습니다.
+              - button "계산하기" [active] [ref=e46]
+            - generic [ref=e49]:
+              - generic [ref=e51]: 계산 결과
+              - generic [ref=e52]:
+                - generic [ref=e53]:
+                  - generic [ref=e54]: 월 급여(세전)
+                  - generic [ref=e55]:
+                    - generic [ref=e56]: ₩4,166,667
+                    - button [ref=e57]:
+                      - img
+                - generic [ref=e58]:
+                  - generic [ref=e59]: 국민연금
+                  - generic [ref=e60]:
+                    - generic [ref=e61]: ₩187,500
+                    - button [ref=e62]:
+                      - img
+                - generic [ref=e63]:
+                  - generic [ref=e64]: 건강보험
+                  - generic [ref=e65]:
+                    - generic [ref=e66]: ₩147,708
+                    - button [ref=e67]:
+                      - img
+                - generic [ref=e68]:
+                  - generic [ref=e69]: 장기요양보험
+                  - generic [ref=e70]:
+                    - generic [ref=e71]: ₩19,128
+                    - button [ref=e72]:
+                      - img
+                - generic [ref=e73]:
+                  - generic [ref=e74]: 고용보험
+                  - generic [ref=e75]:
+                    - generic [ref=e76]: ₩37,500
+                    - button [ref=e77]:
+                      - img
+                - generic [ref=e78]:
+                  - generic [ref=e79]: 4대보험 합계
+                  - generic [ref=e80]:
+                    - generic [ref=e81]: ₩391,837
+                    - button [ref=e82]:
+                      - img
+                - generic [ref=e83]:
+                  - generic [ref=e84]: 소득세
+                  - generic [ref=e85]:
+                    - generic [ref=e86]: ₩340,134
+                    - button [ref=e87]:
+                      - img
+                - generic [ref=e88]:
+                  - generic [ref=e89]: 지방소득세
+                  - generic [ref=e90]:
+                    - generic [ref=e91]: ₩34,013
+                    - button [ref=e92]:
+                      - img
+                - generic [ref=e93]:
+                  - generic [ref=e94]: 총 세금
+                  - generic [ref=e95]:
+                    - generic [ref=e96]: ₩374,147
+                    - button [ref=e97]:
+                      - img
+                - generic [ref=e98]:
+                  - generic [ref=e99]: 월 실수령액
+                  - generic [ref=e100]:
+                    - generic [ref=e101]: ₩3,400,683
+                    - button [ref=e102]:
+                      - img
+                - generic [ref=e103]:
+                  - generic [ref=e104]: 연 실수령액
+                  - generic [ref=e105]:
+                    - generic [ref=e106]: ₩40,808,199
+                    - button [ref=e107]:
+                      - img
+                - generic [ref=e108]:
+                  - generic [ref=e109]: 공제율
+                  - generic [ref=e110]:
+                    - generic [ref=e111]: 18.4%
+                    - button [ref=e112]:
+                      - img
+  - region "Notifications alt+T"

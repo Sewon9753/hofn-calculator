@@ -1,0 +1,38 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]: 호픈
+        - generic [ref=e7]: 계산기
+      - navigation [ref=e8]:
+        - button "홈" [ref=e9]:
+          - img [ref=e10]
+          - generic [ref=e13]: 홈
+        - button "계산기" [ref=e14]:
+          - img [ref=e15]
+          - generic [ref=e17]: 계산기
+        - button "D-Day" [ref=e18]:
+          - img [ref=e19]
+          - generic [ref=e21]: D-Day
+        - button "기록" [ref=e22]:
+          - img [ref=e23]
+          - generic [ref=e26]: 기록
+        - button "설정" [ref=e27]:
+          - img [ref=e28]
+          - generic [ref=e31]: 설정
+    - generic [ref=e32]:
+      - banner [ref=e33]:
+        - button [ref=e34]:
+          - img
+      - main [ref=e35]:
+        - generic [ref=e36]:
+          - heading "연봉 실수령액 계산기 (2026)" [level=1] [ref=e37]
+          - generic [ref=e38]:
+            - generic [ref=e41]:
+              - generic [ref=e42]:
+                - generic [ref=e43]: 세전 연봉 (원)
+                - textbox "50000000" [ref=e44]
+              - paragraph [ref=e45]: 세율은 설정 → 세율 커스텀에서 변경할 수 있습니다.
+              - button "계산하기" [ref=e46]
+            - generic [ref=e48]: 연봉을 입력하고 계산하기를 누르세요
+  - region "Notifications alt+T"

@@ -1,0 +1,92 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - complementary [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]: 호픈
+        - generic [ref=e7]: 계산기
+      - navigation [ref=e8]:
+        - button "홈" [active] [ref=e9]:
+          - img [ref=e10]
+          - generic [ref=e13]: 홈
+        - button "계산기" [ref=e14]:
+          - img [ref=e15]
+          - generic [ref=e17]: 계산기
+        - button "D-Day" [ref=e18]:
+          - img [ref=e19]
+          - generic [ref=e21]: D-Day
+        - button "기록" [ref=e22]:
+          - img [ref=e23]
+          - generic [ref=e26]: 기록
+        - button "설정" [ref=e27]:
+          - img [ref=e28]
+          - generic [ref=e31]: 설정
+    - generic [ref=e32]:
+      - banner [ref=e33]:
+        - button [ref=e34]:
+          - img
+      - main [ref=e35]:
+        - generic [ref=e114]:
+          - heading "계산기" [level=2] [ref=e115]
+          - generic [ref=e116]:
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e119]:
+                - img [ref=e121]
+                - generic [ref=e124]: finance
+              - generic [ref=e125]:
+                - generic [ref=e126]: 예·적금 계산기
+                - paragraph [ref=e127]: 단리·복리·적금 이자 계산
+            - generic [ref=e128] [cursor=pointer]:
+              - generic [ref=e130]:
+                - img [ref=e132]
+                - generic [ref=e134]: finance
+              - generic [ref=e135]:
+                - generic [ref=e136]: 대출 이자 계산기
+                - paragraph [ref=e137]: 원리금균등·원금균등·만기일시
+            - generic [ref=e138] [cursor=pointer]:
+              - generic [ref=e140]:
+                - img [ref=e142]
+                - generic [ref=e146]: finance
+              - generic [ref=e147]:
+                - generic [ref=e148]: 투자 수익률
+                - paragraph [ref=e149]: 매수·매도가, 수수료 포함
+            - generic [ref=e150] [cursor=pointer]:
+              - generic [ref=e152]:
+                - img [ref=e154]
+                - generic [ref=e157]: tax
+              - generic [ref=e158]:
+                - generic [ref=e159]: 연봉 실수령액
+                - paragraph [ref=e160]: 2026 4대보험 + 소득세 적용
+            - generic [ref=e161] [cursor=pointer]:
+              - generic [ref=e163]:
+                - img [ref=e165]
+                - generic [ref=e168]: tax
+              - generic [ref=e169]:
+                - generic [ref=e170]: 부가세 계산기
+                - paragraph [ref=e171]: 별도·포함 양방향 계산
+            - generic [ref=e172] [cursor=pointer]:
+              - generic [ref=e174]:
+                - img [ref=e176]
+                - generic [ref=e179]: tax
+              - generic [ref=e180]:
+                - generic [ref=e181]: 취득세 계산기
+                - paragraph [ref=e182]: 주택 수·지역별 세율 적용
+            - generic [ref=e183] [cursor=pointer]:
+              - generic [ref=e185]:
+                - img [ref=e187]
+                - generic [ref=e191]: unit
+              - generic [ref=e192]:
+                - generic [ref=e193]: 단위 변환기
+                - paragraph [ref=e194]: 길이·넓이·무게·부피
+            - generic [ref=e195] [cursor=pointer]:
+              - generic [ref=e197]:
+                - img [ref=e199]
+                - generic [ref=e201]: basic
+              - generic [ref=e202]:
+                - generic [ref=e203]: 단가 비교
+                - paragraph [ref=e204]: 두 상품 단가 비교
+            - generic [ref=e205] [cursor=pointer]:
+              - img [ref=e208]
+              - generic [ref=e210]:
+                - generic [ref=e211]: D-Day 관리
+                - paragraph [ref=e212]: 만기일·청약일 관리
+  - region "Notifications alt+T"
